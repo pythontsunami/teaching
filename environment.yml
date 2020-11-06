@@ -1,0 +1,11 @@
+name: tsunami
+channels:
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - pandas
+  - ipykernel
+  - ipython
+  - scikit-learn
+  - seaborn
