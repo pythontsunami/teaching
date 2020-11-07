@@ -8,10 +8,10 @@ notebook             | content
 [list.ipynb](lists.ipynb)  | lists
 [numbers_operators_comments](numbers_operators_comments.ipynb)  | operators <br> data formats
 [loops.ipynb](loops.ipynb) | loops
-conditional.ipynb | if conditions
+[conditional.ipynb](conditionals.ipynb) | if conditions
 [functions.ipynb](functions.ipynb)  | functions
-  | numpy
-  | pandas
+[numpy.ipynb](numpy.ipynb)  | numpy
+[pandas_01.ipynb](pandas_01.ipynb) <br> [pandas_02.ipynb](pandas_02.ipynb)  | pandas
 [matplotlib.ipynb](matplotlib.ipynb)     | Conceptual introduction to API, showing how to use pandas, seaborn and <br>matplotlib in once figure
 [sklearn_intro.ipynb](sklearn_intro.ipynb)  | Conceptual introduction to API, example of an entire pipeline
 
