@@ -21,10 +21,17 @@ notebook             | content
 > and covers additionally the scikit-learn library.
 
 ## Further Resources
+
+### Basics
 - [learnpython.org](https://www.learnpython.org/)
   - interactive python basics tutorial
 - [Solo Learn](https://www.sololearn.com/Course/Python/)
 - [Springboard - Data Analysis with Python, SQL, and R](https://www.springboard.com/learning-paths/data-analysis/learn/)
 - [Scipy Lectures](https://scipy-lectures.org/index.html)
     - Python introduction with a focus on scientific computing
+- [official tutorial](https://docs.python.org/3/tutorial/)
+
+### Advanced
+- [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [Intermediate Python Programming Course (6h)  on Youtube](https://www.youtube.com/watch?v=HGOBQPFzWKo)
+- [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
