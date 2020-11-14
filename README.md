@@ -35,3 +35,14 @@ notebook             | content
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/)
 - [Intermediate Python Programming Course (6h)  on Youtube](https://www.youtube.com/watch?v=HGOBQPFzWKo)
 - [Hitchhiker's Guide to Python](https://docs.python-guide.org/)
+
+
+### Python Installations
+
+In this course we use [Google Colab](https://colab.research.google.com/) to execute notebooks. Notebooks are text files allowing
+the combination of Text, Code and the output of code. Colab offers an extended set of
+pre-installed tools. See the [tutorial series](https://www.youtube.com/playlist?list=PLQY2H8rRoyvyK5aEDAI3wUUqC_F0oEroL).
+
+[Anaconda](https://www.anaconda.com/products/individual) offers for your private computer
+an extended installations, including most tools you will ever need for Python.
+Use the [Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/) to launch applications.
