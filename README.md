@@ -5,11 +5,11 @@ The material should be followed in order, except you have prior knowledge.
 notebook             | content
 ----                 | ------
 [0_intro.ipynb](0_intro.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/0_intro.ipynb) | Introduction and Motiation
-[1_variables_data-types.ipynb](variables_data-types.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_variables_data-types.ipynb)| Variables and expressions
+[1_variables_data-types.ipynb](variables_data-types.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_variables_data-types.ipynb)| Variables and expressions, data types, especially strings
 [1_numbers_operators_comments](1_numbers_operators_comments.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_numbers_operators_comments.ipynb) | operators <br> data formats
+[1_conditionals.ipynb](1_conditionals.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_conditionals.ipynb) | if conditions and comparisions
 [1_loops.ipynb](1_loops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_loops.ipynb) | loops
 [1_lists.ipynb](1_lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_lists.ipynb) | lists
-[1_conditionals.ipynb](1_conditionals.ipynb) | if conditions
 [2_functions.ipynb](2_functions.ipynb)  | functions
 [3_numpy.ipynb](3_numpy.ipynb)  | numpy
 [4_pandas_01.ipynb](4_pandas_01.ipynb) <br> [4_pandas_02.ipynb](4_pandas_02.ipynb)  | pandas
