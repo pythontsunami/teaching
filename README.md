@@ -11,6 +11,7 @@ notebook             | content
 [1_loops.ipynb](1_loops.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_loops.ipynb) | loops
 [1_lists.ipynb](1_lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/1_lists.ipynb) | lists
 [2_functions.ipynb](2_functions.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/2_functions.ipynb)  | functions
+[2_modules_classes.ipynb](2_modules_classes.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/2_modules_classes.ipynb)  | Modules and Classes
 [3_numpy.ipynb](3_numpy.ipynb)  | numpy
 [4_pandas_01.ipynb](4_pandas_01.ipynb) <br> [4_pandas_02.ipynb](4_pandas_02.ipynb)  | pandas
 [5_matplotlib.ipynb](5_matplotlib.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/teaching/blob/intro/5_matplotlib.ipynb)  | Conceptual introduction to API, showing how to use pandas, seaborn and <br>matplotlib in once figure
