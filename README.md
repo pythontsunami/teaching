@@ -26,8 +26,9 @@ notebook             | content
 ### Basics
 - [learnpython.org](https://www.learnpython.org/)
   - interactive python basics tutorial
-- [Solo Learn](https://www.sololearn.com/Course/Python/)
+
 - [Springboard - Data Analysis with Python, SQL, and R](https://www.springboard.com/learning-paths/data-analysis/learn/)
+  - starts with - [Solo Learn](https://www.sololearn.com/Course/Python/) and [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212)
 - [Scipy Lectures](https://scipy-lectures.org/index.html)
     - Python introduction with a focus on scientific computing
 - [official tutorial](https://docs.python.org/3/tutorial/)
