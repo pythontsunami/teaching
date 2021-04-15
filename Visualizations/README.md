@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Matplotlib.ipynb) | Visualization
+[Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/Matplotlib.ipynb) | Visualization
