@@ -6,5 +6,5 @@
 
 notebook             | content
 ----                 | ------
-[Lists.ipynb](Lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/Center-for-Health-Data-Science/PythonTsunami/tree/intro/Data_structures/Lists.ipynb) | Lists
-[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythontsunami/Center-for-Health-Data-Science/PythonTsunami/tree/intro/Data_structures/Arrays.ipynb) | Arrays
+[Lists.ipynb](Lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Lists.ipynb) | Lists
+[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Arrays_numpy.ipynb) | Arrays
