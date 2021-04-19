@@ -8,7 +8,7 @@
 | DAY 1                       | DAY 2                                 | DAY 3                 |
 |-----------------------------|---------------------------------------|-----------------------|
 |                             | Coffee and the day before  (optional) |                       |
-| Introduction and motivation | Conditions                            | [Visualization I](Visualizations)       |
+| [Introduction and motivation](Introduction) | Conditions                            | [Visualization I](Visualizations)       |
 | Installation and tools      | Loops                                 | [Visualization II](Visualizations)      |
 |                             | Functions                             |                       |
 |                             |                                       | Introduction Datathon |
