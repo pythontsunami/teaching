@@ -22,6 +22,22 @@
 
 ## Further Resources
 
+### Cheat Sheets
+- Basics:
+  - [Getting started](cheat_sheets/cheat_sheet_day0.pdf)
+  - [Importing Data](cheat_sheets/Importing_Data_Cheat_sheet.pdf)
+  - [Jupyter Notebook](cheat_sheets/Jupyter_Notebook_Cheat_Sheet.pdf)
+- Data Science:
+  - [Numpy](cheat_sheets/Numpy_Python_Cheat_Sheet.pdf)
+  - [Pandas](cheat_sheets/Pandas_Python_Cheat_Sheet.pdf)
+  - [Scipy](cheat_sheets/Scipy-LinearAlgebra_Cheat_Sheet.pdf)
+  - [Scikit-learn](cheat_sheets/Scikit-learn_Cheat_Sheet.pdf)
+- Visualization:
+  - [Matplotlib](cheat_sheets/Python_Matplotlib_Cheat_Sheet.pdf)
+  - [Plot.ly](cheat_sheets/Plotly_Cheat_Sheets.pdf)
+  - [Seaborn](cheat_sheets/Seaborn_Cheat_Sheet.pdf)
+  - [Bokeh](cheat_sheets/Bokeh_Cheat_Sheet.pdf)
+
 ### Basics
 - [learnpython.org](https://www.learnpython.org/)
   - interactive python basics tutorial
