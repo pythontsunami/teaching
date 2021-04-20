@@ -13,7 +13,7 @@
 |                             | Functions                             |                       |
 |                             |                                       | Introduction Datathon |
 | [Variables and data types](Variables_and_data_types)    | Libraries                             | Datathon              |
-| [Numbers and operators](Numbers_and_operators)       | Scientific python                     |                       |
+| [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       | Scientific python                     |                       |
 | [Data structures](Data_structures)             | Pandas                                | Datathon              |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |

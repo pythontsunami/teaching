@@ -13,3 +13,5 @@ dependencies:
   - seaborn
   - jupyter
   - plotly
+  - bs4
+  - requests
