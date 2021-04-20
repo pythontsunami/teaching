@@ -1,0 +1,18 @@
+Country/Region
+Mainland China
+Japan
+Singapore
+Hong Kong
+Japan
+Thailand
+South Korea
+Malaysia
+Taiwan
+Germany
+Vietnam
+France
+Macau
+UK
+United Arab Emirates
+US
+Australia

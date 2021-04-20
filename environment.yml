@@ -10,3 +10,5 @@ dependencies:
   - scikit-learn
   - seaborn
   - jupyter
+  - bs4
+  - requests
