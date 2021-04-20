@@ -12,8 +12,8 @@
 | [Installation and tools](Installation_and_tools)      | Loops                                 | [Visualization II](Visualizations)      |
 |                             | Functions                             |                       |
 |                             |                                       | Introduction Datathon |
-| Variables and data types    | Libraries                             | Datathon              |
-| Numbers and operators       | Scientific python                     |                       |
+| [Variables and data types](Variables_and_data_types)    | Libraries                             | Datathon              |
+| [Numbers and operators](Numbers_and_operators)       | Scientific python                     |                       |
 | [Data structures](Data_structures)             | Pandas                                | Datathon              |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
