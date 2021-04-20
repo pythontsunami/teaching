@@ -9,7 +9,7 @@
 |-----------------------------|---------------------------------------|-----------------------|
 |                             | Coffee and the day before  (optional) |                       |
 | [Introduction and motivation](Introduction) | Conditions                            | [Visualization I](Visualizations)       |
-| Installation and tools      | Loops                                 | [Visualization II](Visualizations)      |
+| [Installation and tools](Installation_and_tools)      | Loops                                 | [Visualization II](Visualizations)      |
 |                             | Functions                             |                       |
 |                             |                                       | Introduction Datathon |
 | Variables and data types    | Libraries                             | Datathon              |
