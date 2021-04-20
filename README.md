@@ -18,6 +18,8 @@
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
 
+## Program April 2021
+![image](https://user-images.githubusercontent.com/1425851/115427555-d957a980-a201-11eb-815c-5593e4b9427f.png)
 
 
 ## Further Resources
