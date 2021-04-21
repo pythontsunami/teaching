@@ -8,18 +8,19 @@
 | DAY 1                       | DAY 2                                 | DAY 3                 |
 |-----------------------------|---------------------------------------|-----------------------|
 |                             | Coffee and the day before  (optional) |                       |
-| [Introduction and motivation](Introduction) | Conditions                            | [Visualization I](Visualizations)       |
-| [Installation and tools](Installation_and_tools)      | Loops                                 | [Visualization II](Visualizations)      |
-|                             | Functions                             |                       |
+| [Introduction and motivation](Introduction) | [Conditionals](Conditionals)                            | [Visualization I](Visualizations)       |
+| [Installation and tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
+|                             | [Functions](Functions)                             |                       |
 |                             |                                       | Introduction Datathon |
-| [Variables and data types](Variables_and_data_types)    | Classes                             | Datathon              |
-| [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       | Scientific python                     |                       |
-| [Data structures](Data_structures)             | Pandas                                | Datathon              |
+| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon              |
+| [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       |                     |                       |
+| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon              |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
 
 ## Program April 2021
-![image](https://user-images.githubusercontent.com/1425851/115496399-d4c6db80-a269-11eb-8183-92aff24f85c9.png)
+![image](https://user-images.githubusercontent.com/1425851/115610080-a9370600-a2e8-11eb-9c5b-5cdafd909b6b.png)
+
 
 
 
