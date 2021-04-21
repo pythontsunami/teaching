@@ -12,14 +12,15 @@
 | [Installation and tools](Installation_and_tools)      | Loops                                 | [Visualization II](Visualizations)      |
 |                             | Functions                             |                       |
 |                             |                                       | Introduction Datathon |
-| [Variables and data types](Variables_and_data_types)    | Libraries                             | Datathon              |
+| [Variables and data types](Variables_and_data_types)    | Classes                             | Datathon              |
 | [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       | Scientific python                     |                       |
 | [Data structures](Data_structures)             | Pandas                                | Datathon              |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
 
 ## Program April 2021
-![image](https://user-images.githubusercontent.com/1425851/115427555-d957a980-a201-11eb-815c-5593e4b9427f.png)
+![image](https://user-images.githubusercontent.com/1425851/115496399-d4c6db80-a269-11eb-8183-92aff24f85c9.png)
+
 
 
 ## Further Resources
