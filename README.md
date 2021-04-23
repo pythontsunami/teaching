@@ -12,9 +12,9 @@
 | [Installation and tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
 |                             | [Functions](Functions)                             |                       |
 |                             |                                       | Introduction Datathon |
-| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon              |
+| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
 | [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       |                     |                       |
-| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon              |
+| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
 
@@ -33,12 +33,12 @@
   - [Jupyter Notebook](cheat_sheets/Jupyter_Notebook_Cheat_Sheet.pdf)
 - Data Science:
   - [Numpy](cheat_sheets/Numpy_Python_Cheat_Sheet.pdf)
-  - [Pandas](cheat_sheets/Pandas_Python_Cheat_Sheet.pdf)
+  - [Pandas](cheat_sheets/Pandas_Cheat_Sheet.pdf)
   - [Scipy](cheat_sheets/Scipy-LinearAlgebra_Cheat_Sheet.pdf)
   - [Scikit-learn](cheat_sheets/Scikit-learn_Cheat_Sheet.pdf)
 - Visualization:
   - [Matplotlib](cheat_sheets/Python_Matplotlib_Cheat_Sheet.pdf)
-  - [Plot.ly](cheat_sheets/Plotly_Cheat_Sheets.pdf)
+  - [Plot.ly](cheat_sheets/Plotly_Cheat_Sheet.pdf)
   - [Seaborn](cheat_sheets/Seaborn_Cheat_Sheet.pdf)
   - [Bokeh](cheat_sheets/Bokeh_Cheat_Sheet.pdf)
 
