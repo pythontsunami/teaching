@@ -12,9 +12,9 @@
 | [Installation and tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
 |                             | [Functions](Functions)                             |                       |
 |                             |                                       | Introduction Datathon |
-| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon              |
+| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
 | [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       |                     |                       |
-| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon              |
+| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
 |                             |                                       | Presentations         |
 | Q&A                         |                                       | What else is there?   |
 
