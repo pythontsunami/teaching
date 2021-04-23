@@ -16,7 +16,7 @@
 | [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       |                     |                       |
 | [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
 |                             |                                       | Presentations         |
-| Q&A                         |                                       | What else is there?   |
+| Q&A                         |                                       | [What else is there?](What_else)    |
 
 ## Program April 2021
 ![image](https://user-images.githubusercontent.com/1425851/115610080-a9370600-a2e8-11eb-9c5b-5cdafd909b6b.png)
