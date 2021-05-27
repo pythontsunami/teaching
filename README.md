@@ -9,18 +9,15 @@
 |-----------------------------|---------------------------------------|-----------------------|
 |                             | Coffee and the day before  (optional) |                       |
 | [Introduction and motivation](Introduction) | [Conditionals](Conditionals)                            | [Visualization I](Visualizations)       |
-| [Installation and tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
-|                             | [Functions](Functions)                             |                       |
-|                             |                                       | Introduction Datathon |
-| [Variables and data types](Variables_and_data_types)    | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
-| [Numbers and operators](Numbers_and_operators) & [Importing data](Importing_data)       |                     |                       |
+| [Tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
+|  [Variables and data types](Variables_and_data_types) | [Functions](Functions)                             |                       |
+| [Numbers and operators](Numbers_and_operators)        |                                       |  |
+|    [Importing data](Importing_data) | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
 | [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
 |                             |                                       | Presentations         |
-| Q&A                         |                                       | [What else is there?](What_else)    |
 
-## Program April 2021
-![image](https://user-images.githubusercontent.com/1425851/115610080-a9370600-a2e8-11eb-9c5b-5cdafd909b6b.png)
-
+## Program June 2021
+![image](https://user-images.githubusercontent.com/1425851/119787166-39143500-bed1-11eb-9aa6-e56031f5a38c.png)
 
 
 
