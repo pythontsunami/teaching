@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[Lists.ipynb](Lists.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Lists.ipynb) | Lists
+[data_structures.ipynb](data_structures.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/data_structures.ipynb) | Data structures
