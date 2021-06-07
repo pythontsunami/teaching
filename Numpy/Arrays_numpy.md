@@ -1,6 +1,6 @@
 <img src="../figures/HeaDS_logo_large_withTitle.png" width="300">
 
-<img src="../figures/tsunami_logo.png" width="600">
+<img src="../figures/tsunami_logo.PNG" width="600">
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Arrays_numpy.ipynb)
 
