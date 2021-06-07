@@ -6,4 +6,20 @@
 
 notebook             | content
 ----                 | ------
-[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Numpy/Arrays_numpy.ipynb) | Arrays
+[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Numpy/Arrays_numpy.ipynb) | Most common Array type in scientific computing which API is the de-facto standard
+
+
+## Description
+After covering the background and scope of the library, we will have a look at severl 
+basic aspects before moving on to prolonged exercises. There will be a general introduction
+with only one small breakout room. The following will be covered:
+
+- basic comparison to the Python built-in `list` type
+- concept of vectorized operations
+- basic functions (methods) for mathematical computation
+- different data types (`dtype`s)
+- the concept of boolean masks
+- multidimensional arrays (tables) and their axes.
+
+
+
