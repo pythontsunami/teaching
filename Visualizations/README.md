@@ -6,6 +6,7 @@
 
 notebook             | content
 ----                 | ------
+[Plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/plotly.ipynb)| Plotly Express library
 [Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/Matplotlib.ipynb) | Visualization Intro (tsunami course)
 [PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
 
