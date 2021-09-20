@@ -22,4 +22,8 @@ with only one small breakout room. The following will be covered:
 - multidimensional arrays (tables) and their axes.
 
 
+## Other ressources
+
+- [Hands on ML Tutorial on Numpy](https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
+
 
