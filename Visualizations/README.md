@@ -6,9 +6,10 @@
 
 notebook             | content
 ----                 | ------
-[Plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/plotly.ipynb)| Plotly Express library
-[Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/Matplotlib.ipynb) | Visualization Intro (tsunami course)
-[PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
+[Basic_pandas_plotting.ipynb](basic_pandas_plotting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/fall2021/Visualizations/Basic_pandas_plotting.ipynb) | plotting on pandas DataFrame (motivation after pandas introduction)
+[Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/fall2021/Visualizations/Matplotlib.ipynb) | Visualization Intro (tsunami course)
+[plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/fall2021/Visualizations/plotly.ipynb)| Plotly Express library
+[PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/fall2021/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
 
 ## Installing Plotly
 
