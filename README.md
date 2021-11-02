@@ -8,8 +8,8 @@
 | DAY 1                       | DAY 2                                 | DAY 3                 |
 |-----------------------------|---------------------------------------|-----------------------|
 |                             | Coffee and the day before  (optional) |                       |
-| [Introduction and motivation](Introduction) | [Conditionals](Conditionals)                            | [Visualization I](Visualizations)       |
-| [Tools](Installation_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
+|  | [Conditionals](Conditionals)                            | [Visualization I](Visualizations)       |
+| [Introduction & Tools](Introduction_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
 |  [Variables and data types](Variables_and_data_types) | [Functions](Functions)                             |                       |
 | [Numbers and operators](Numbers_and_operators)        |                                       |  |
 |    [Importing data](Importing_data) | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
