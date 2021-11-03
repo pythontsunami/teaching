@@ -16,7 +16,7 @@
 | [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
 |                             |                                       | Presentations         |
 
-## Program June 2021
+## Program October 2021
 ![image](https://user-images.githubusercontent.com/1425851/119787166-39143500-bed1-11eb-9aa6-e56031f5a38c.png)
 
 
