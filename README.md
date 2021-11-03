@@ -17,7 +17,7 @@
 |                             |                                       | Presentations         |
 
 ## Program October 2021
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/2ea65e9532418f2b915e6bf4395903177ba8535b/figures/ProgramFall2021.png)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/d91c7714b23adf32aa23287388b7570ac1427849/figures/Program2021October.png)
 
 
 ## Further Resources
