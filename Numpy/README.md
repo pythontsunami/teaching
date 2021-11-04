@@ -6,11 +6,11 @@
 
 notebook | preview  | content
 -------- | -------  | ------
-[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Numpy/Arrays_numpy.ipynb) | [Arrays_numpy.md](Arrays_numpy.md) |  Most common Array type in scientific computing which API is the de-facto standard
+[Arrays_numpy.ipynb](Arrays_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/HEAD/Numpy/Arrays_numpy.ipynb) | [Arrays_numpy.md](Arrays_numpy.md) |  Most common Array type in scientific computing which API is the de-facto standard
 
 
 ## Description
-After covering the background and scope of the library, we will have a look at severl 
+After covering the background and scope of the library, we will have a look at several
 basic aspects before moving on to prolonged exercises. There will be a general introduction
 with only one small breakout room. The following will be covered:
 
@@ -25,5 +25,3 @@ with only one small breakout room. The following will be covered:
 ## Other ressources
 
 - [Hands on ML Tutorial on Numpy](https://nbviewer.jupyter.org/github/ageron/handson-ml2/blob/master/tools_numpy.ipynb)
-
-

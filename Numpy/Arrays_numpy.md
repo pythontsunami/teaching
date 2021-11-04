@@ -2,16 +2,16 @@
 
 <img src="../figures/tsunami_logo.PNG" width="600">
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/intro/Data_structures/Arrays_numpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/HEAD/Data_structures/Arrays_numpy.ipynb)
 
 # Arrays
 
 ## Numpy
-    
+
 <img src="https://numpy.org/images/logos/numpy.svg" width="200">
-    
+
 *Prepared by [Jakob Nybo Nissen](https://twitter.com/nybojakob), continued by [Henry Webel](https://twitter.com/Henrywebel)*
-    
+
 The first half of this Notebook contain a small introduction to `numpy`. You can also see a [the YouTube video](https://www.youtube.com/watch?v=8Mpc9ukltVA). If you feel comfortable using [`numpy`](https://numpy.org/), you can skip the introduction and go directly to the [exercises (click here)](#exercises). If you would like a recap, keep reading on.
 
 ## Introduction
@@ -76,9 +76,9 @@ print(type(array))
 
     [4 9 1 0 8 3 2 2 6 5 0]
     <class 'numpy.ndarray'>
-    
 
-You notice the `ndarray` looks a lot like a `list`. You can also construct `ndarrays` from a tuple. 
+
+You notice the `ndarray` looks a lot like a `list`. You can also construct `ndarrays` from a tuple.
 
 
 
@@ -121,7 +121,7 @@ print('np.random.randint:', np.random.randint(7, 19, size=9))
     np.linspace: [ 3.   4.5  6.   7.5  9.  10.5 12.  13.5 15. ]
     np.random.random: [0.37876954 0.06446067 0.07600707 0.6318306  0.54057498]
     np.random.randint: [18 15  8 13 15 16 10  7 11]
-    
+
 
 ## Slicing
 We can access and assign individual numbers in an `ndarray` like we do with `list`:
@@ -139,7 +139,7 @@ print(array)
     1
     [1 0 8 3]
     [ 4  9  1 10  8  3  2  2  6  5  0]
-    
+
 
 ---
 We can also loop over the `ndarray`, reverse it, and so on. The full list of methods you find in the docs of [`numpy.ndarray`](https://numpy.org/doc/stable/reference/generated/numpy.ndarray.html)
@@ -158,7 +158,7 @@ array.append(3)
 
     <ipython-input-52-e9cb6c9fca85> in <module>
     ----> 1 array.append(3)
-    
+
 
     AttributeError: 'numpy.ndarray' object has no attribute 'append'
 
@@ -221,7 +221,7 @@ array[2] = "hello" # "2" would work
 ```
 
     [ 4  9  1 10  8  3  2  2  6  5  0]
-    
+
 
 
     ---------------------------------------------------------------------------
@@ -229,10 +229,10 @@ array[2] = "hello" # "2" would work
     ValueError                                Traceback (most recent call last)
 
     <ipython-input-53-169bd88d1684> in <module>
-          5 
+          5
           6 # "hello" cannot be converted to an integer
     ----> 7 array[2] = "hello" # "2" would work
-    
+
 
     ValueError: invalid literal for int() with base 10: 'hello'
 
@@ -277,7 +277,7 @@ print(array, array.dtype)
 
     [1 2 3] int32
     [1. 2. 3.] float64
-    
+
 
 ---
 Be careful when constructing `ndarrays` - for example if you try to construct an `ndarray` from a set object, which is not a list or a tuple, it simply create a 1-element `ndarray` containing the set as its only element, and the datatype will be `object`:
@@ -291,7 +291,7 @@ print("dtype: ", array.dtype)
 
     array:  {1, 2, 3}
     dtype:  object
-    
+
 
 ---
 You can also manually specify the data type you want. Notice here that it converts `2.5` to `2`:
@@ -345,7 +345,7 @@ print(0.4 * array**2 + 1.5 * array - 0.9)
     [2.  4.  0.5 1.  4.5 1.5 3.5]
     [16 64  1  4 81  9 49]
     [11.5 36.7  1.   3.7 45.   7.2 29.2]
-    
+
 
 > Think about the difference of what the `+`, `-`, `*`, `/` operators invoke in comparison to `str` or `list` built-in types.
 
@@ -358,7 +358,7 @@ import random
 # Create a vector of 1 million random floats in [0.0, 1.0):
 python_list = [random.random() for i in range(1_000_000)]
 
-# Convert the Python list to a Numpy vector 
+# Convert the Python list to a Numpy vector
 numpy_vector = np.array(python_list)
 ```
 
@@ -368,7 +368,7 @@ numpy_vector = np.array(python_list)
 ```
 
     Wall time: 90 ms
-    
+
 
 
 ```python
@@ -379,18 +379,18 @@ for x in python_list:
 ```
 
     Wall time: 157 ms
-    
+
 
 
 ```python
-# On Jacob's computer, this is >200x faster than Python 
+# On Jacob's computer, this is >200x faster than Python
 # In colab (with the lastest Python version?) this is still ~70x faster
 # On my machine it is reduced to a 22x faster
 %timeit results = 2*numpy_vector + 3
 ```
 
     4.1 ms ± 109 µs per loop (mean ± std. dev. of 7 runs, 100 loops each)
-    
+
 
 ## Masking
 Importantly, the comparison operators `>`, `>=`, `<`, `<=`, `==`, `!=` are also vectorized. Since these operators always return a `bool` (i.e. `True` or `False`), the result is an `ndarray` of data type `bool`. For example, we can check whether each element in `array` is greater than 3:
@@ -406,7 +406,7 @@ array[mask_above_3] # explanation: see next section
 
     [ True  True False False  True False  True]
     bool
-    
+
 
 
 
@@ -444,7 +444,7 @@ array[mask_nonzero]
 
     array: [ 1  4  6  5  0  2  9 10  0  2  7  5]
     nonzero: [ True  True  True  True False  True  True  True False  True  True  True]
-    
+
 
 
 
@@ -459,16 +459,16 @@ You can also assign to an `ndarray` using logical indexing. This will change all
 
 ```python
 array[mask_nonzero] = 100
-print(array) 
+print(array)
 ```
 
     [100 100 100 100   0 100 100 100   0 100 100 100]
-    
+
 
 To combine you can use the "bit-wise" operators `&` (logical and) and `|` (logical or), or one of the [logical operations](https://numpy.org/doc/stable/reference/routines.logic.html#logical-operations)
 
 <a id='ndarray_methods'></a>
-## `ndarray` methods 
+## `ndarray` methods
 
 In addition to the vectorized opertaions, the `array` object also have some methods (i.e. functions of the object type or class `array`) to conveniently perform operations on the arrays. Like vectorized operations, these methods are very fast. The full list of methods you find in the docs of [`numpy.array`](https://numpy.org/doc/stable/reference/arrays.ndarray.html#array-methods).
 
@@ -489,7 +489,7 @@ print("Calculate minimum/maximum:", array.min(), array.max())
     Calculate variance: 8.408163265306122
     Calculate standard deviation: 2.8996833043120627
     Calculate minimum/maximum: 1 9
-    
+
 
 The methods performed on the `ndarray` can also be performed on different datastructures than arrays using numpy functions with idential names to the methods of an `ndarray`:
 
@@ -524,11 +524,11 @@ and many, many more. In general, basic math operations, statistical operations a
 
     [1.38629436 2.07944154 0.         0.69314718 2.19722458 1.09861229
      1.94591015]
-    
+
 
 ## Higher dimensional arrays
 
-The reason they are called `ndarray`s are that they are N-dimensional. 
+The reason they are called `ndarray`s are that they are N-dimensional.
 In the exercises, you can work on matrices, i.e. `2d-array`s.
 
 First a little notation:
@@ -568,7 +568,7 @@ print("Dimensions (Axes):", data.ndim)
 
     Shape: (3, 4)
     Dimensions (Axes): 2
-    
+
 
 ### reshape
 
@@ -602,7 +602,7 @@ data.sum() # default along all axis
     [[1 5 3 9]
      [9 4 2 4]
      [0 6 5 1]]
-    
+
 
 
 
@@ -805,20 +805,20 @@ with open(filepath) as file:
 ```
 
     #genome,sample_6,sample_7,sample_8,sample_13,sample_14,sample_15,sample_16,sample_17,sample_18,sample_19
-    
+
     OTU_97.21068.0,1.4179,0.3905,0.0000,0.0000,0.0000,0.0000,1.6318,0.3905,0.0000,0.0000
-    
+
     OTU_97.360.0,0.3871,0.0000,0.0000,0.0000,0.0000,0.0000,0.3871,0.0000,0.0000,0.0000
-    
+
     OTU_97.44228.0,7.5783,87.6600,13.1089,28.6166,25.1856,10.2906,37.3140,104.9891,13.1089,49.1341
-    
+
     OTU_97.38344.1,1.9753,0.0000,0.0000,0.0000,0.0000,0.0000,2.2735,0.0000,8.8969,0.0000
-    
+
     OTU_97.28595.0,7.5782,2.0872,7.8652,0.0000,0.0000,0.0000,9.8654,2.0872,7.8652,0.0000
-    
+
     OTU_97.17212.1,0.9032,0.0000,0.0000,0.0000,0.3752,0.0000,0.9032,0.0000,0.0000,0.0000
-    
-    
+
+
 
 ### Load in the matrix in some data structure of your choice, but make sure the numbers in each row is an `ndarray`.
 
@@ -896,10 +896,10 @@ After discarding all OTUs present in fewer than 4 samples, sort the OTUs, do the
 ##  Optional exercise: Sequence data as an array
 _Only do it if you have extra time._
 
-### load data 
+### load data
 
 Create a function that loads a FASTA file into a `dict` where each key is the FASTA header and the value is an  `ndarray` corresponding to the sequence. Remember that you need to instantiate `ndarray` from a list, not a string. Test it using the `Yersinia pestis` fasta file. You can verify that your `ndarray` has the correct length by checking the `.size` attribute:
-  
+
 `array.size`
 
 
