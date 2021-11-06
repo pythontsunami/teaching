@@ -16,3 +16,17 @@ There are four datasets available, which are described in
 3.	Do the variables in your dataset appear to be correlated in any way, 
     you could visually inspect this with scatterplots, 
     plotting one variable as the predictor (x) and another variable as the response (y).
+
+## Use raw csv view
+
+In order to load your data directly into pandas from the csv files in this order.
+
+![Find raw file button for csv files](../../figures/github_raw_file_view.png)
+
+
+```python
+import pandas as pd
+url = 'https://raw.githubusercontent.com/<missing>/data.csv'
+df = pd.read_csv(url)
+```
+
