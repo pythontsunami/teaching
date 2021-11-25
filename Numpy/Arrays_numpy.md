@@ -638,7 +638,7 @@ data.sum(axis=1)
 ### new axis
 
 - sometimes needed for broadcasting (next sections)
-- You might need this if you later move to machine learning and start using [sklearn](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/intro/ML)
+- You might need this if you later move to machine learning and start using [sklearn](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/fall2021/ML)
 
 
 ```python
