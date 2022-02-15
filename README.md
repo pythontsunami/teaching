@@ -13,7 +13,7 @@ We are currently updating the course material for the spring 2022 Python Tsunami
 The remaining notebooks will be gradually updated until mid-March.
 
 ## Program October 2021
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/d5c86f23f508552ad3151fbece8e27e1ada84afa/figures/program_spring_2022.png)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/figures/program_spring_2022.PNG)
 
 
 ## Further Resources
