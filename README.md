@@ -4,20 +4,16 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
+## Notes
+We are currently updating the course material for the spring 2022 Python Tsunami. The following notebooks have been updated (as of 15/02/2022):
+- Variables and data types
+- Iterables
+- Booleans, operators, and loops
 
-| DAY 1                       | DAY 2                                 | DAY 3                 |
-|-----------------------------|---------------------------------------|-----------------------|
-|                             | Coffee and the day before  (optional) |                       |
-|  | [Conditionals](Conditionals)                            | [Visualization I](Visualizations)       |
-| [Introduction & Tools](Introduction_and_tools)      | [Loops](Loops)                                 | [Visualization II](Visualizations)      |
-|  [Variables and data types](Variables_and_data_types) | [Functions](Functions)                             |                       |
-| [Numbers and operators](Numbers_and_operators)        |                                       |  |
-|    [Importing data](Importing_data) | [Numpy](Numpy)                             | Datathon [Example datasets](data/datathon_datasets)              |
-| [Data structures](Data_structures)             | [Pandas](Pandas)                                | Datathon [Example datasets](data/datathon_datasets)             |
-|                             |                                       | Presentations         |
+The remaining notebooks will be gradually updated until mid-March.
 
 ## Program October 2021
-![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/d5c86f23f508552ad3151fbece8e27e1ada84afa/figures/Program_October_2021.png)
+![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/d5c86f23f508552ad3151fbece8e27e1ada84afa/figures/program_spring_2022.png)
 
 
 ## Further Resources
