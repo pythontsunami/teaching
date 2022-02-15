@@ -5,6 +5,8 @@
   <img src="figures/tsunami_logo.PNG" width="600">
 
 ## Notes
+**PLEASE NOTE:** The Colab links still redirect to the fall 2021 materials, so DO NOT use those. :
+
 We are currently updating the course material for the spring 2022 Python Tsunami. The following notebooks have been updated (as of 15/02/2022):
 - Variables and data types
 - Iterables
