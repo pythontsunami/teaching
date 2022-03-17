@@ -6,8 +6,6 @@
 
 notebook             | content
 ----                 | ------
-[Basic_pandas_plotting.ipynb](basic_pandas_plotting.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/Basic_pandas_plotting.ipynb) | plotting on pandas DataFrame (motivation after pandas introduction)
-[Matplotlib.ipynb](Matplotlib.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/Matplotlib.ipynb) | Visualization Intro (tsunami course)
 [plotly.ipynb](plotly.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/plotly.ipynb)| Plotly Express library [Be aware: [Plots stays interactive in nbviewer](https://nbviewer.org/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/plotly.ipynb#Bar-Charts)]
 [PlotlyExpress_ComprehensiveGuide.ipynb](PlotlyExpress_ComprehensiveGuide.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Visualizations/PlotlyExpress_ComprehensiveGuide.ipynb)| PlotlyExpress library guide (extensive external resource)
 
