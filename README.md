@@ -5,16 +5,16 @@
   <img src="figures/tsunami_logo.PNG" width="600">
 
 ## Notes
-**PLEASE NOTE:** Collab links should work now
 
 We are currently updating the course material for the spring 2022 Python Tsunami. The following notebooks have been updated (as of 15/02/2022):
 - Variables and data types
 - Iterables
 - Booleans, operators, and loops
+- Visualizations
 
 The remaining notebooks will be gradually updated until mid-March.
 
-## Program October 2021
+## Program Spring 2022
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/figures/program_spring_2022.PNG)
 
 
