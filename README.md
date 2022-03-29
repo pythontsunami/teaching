@@ -12,8 +12,8 @@
 |[Variables and data types](Variables_data_types)      | [Functions](Functions)                               |
 |                                                      | [Pandas](Pandas)                                     |
 | Lunch                                                | Lunch                                                |
-| [Iterables I](Iterables)                             | [Pandas](Pandas)/[Visualization](Visualization)      |
-| [Iterables II](Iterables)                            | [Visualization](Visualization)                       | 
+| [Iterables I](Iterables)                             | [Pandas](Pandas)/[Visualization](Visualizations)      |
+| [Iterables II](Iterables)                            | [Visualization](Visualizations)                       | 
 | Coffee break                                         | Coffee break                                         |
 | [Booleans, operators and conditions](Conditionals)   | [Exercise](Exercise)                                 |
 | [Loops](Loops)                                       | [Exercise](Exercise)                                 |
