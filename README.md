@@ -4,15 +4,20 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
-## Notes
-
-We are currently updating the course material for the spring 2022 Python Tsunami. The following notebooks have been updated (as of 15/02/2022):
-- Variables and data types
-- Iterables
-- Booleans, operators, and loops
-- Visualizations
-
-The remaining notebooks will be gradually updated until mid-March.
+| DAY 1                                                | DAY 2                                                |
+|------------------------------------------------------|------------------------------------------------------|
+|Morning coffee (optional) | Morning coffee (optional) |
+|[Introduction and Motivation](Introduction_and_tools) | [Recap and questions](Recap)                         |
+| Coffee break                                         | Coffee break                                         |
+|[Variables and data types](Variables_data_types)      | [Functions](Functions)                               |
+|                                                      | [Pandas](Pandas)                                     |
+| Lunch                                                | Lunch                                                |
+| [Iterables I](Iterables)                             | [Pandas](Pandas)/[Visualization](Visualizations)      |
+| [Iterables II](Iterables)                            | [Visualization](Visualizations)                       | 
+| Coffee break                                         | Coffee break                                         |
+| [Booleans, operators and conditions](Conditionals)   | [Exercise](Exercise)                                 |
+| [Loops](Loops)                                       | [Exercise](Exercise)                                 |
+| Q & A                                                | Q & A                                                |
 
 ## Program Spring 2022
 ![image](https://github.com/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/figures/program_spring_2022.PNG)
