@@ -6,4 +6,4 @@
 
 notebook             | content
 ----                 | ------
-[Variables_and_data_types.ipynb](variables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Variables_data_types/variables.ipynb) | Variables and data types
+[variables.ipynb](variables.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/PythonTsunami/blob/spring2022/Variables_data_types/variables.ipynb) | Variables and data types
