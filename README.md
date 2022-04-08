@@ -4,6 +4,9 @@
 <p align="center">
   <img src="figures/tsunami_logo.PNG" width="600">
 
+__Please help us to improve the course by filling out the [feedback form](https://forms.gle/hYgSpAJGBnSzuPFw7)__  
+  
+  
 | DAY 1                                                | DAY 2                                                |
 |------------------------------------------------------|------------------------------------------------------|
 |Morning coffee (optional) | Morning coffee (optional) |
